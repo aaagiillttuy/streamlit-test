@@ -1,9 +1,9 @@
 import streamlit as st
 
-st.title("this is the app title")
-st.header("this is the markdown")
-st.markdown("this is the header")
-st.subheader("this is the subheader")
-st.caption("this is the caption")
-st.code("x=2021")
+st.title("hello world")
+st.header("hello header")
+st.markdown("hello markdown")
+st.subheader("hello subheader")
+st.caption("hello caption")
+st.code("<hello code>")
 st.latex(r''' a+a r^1+a r^2+a r^3 ''')
